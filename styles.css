@@ -58,6 +58,10 @@ h1 span {
         flex: 1;
         padding: 40px;
     }
+    
+    .logo {
+        width: 50px;   
+    }
 }
 
 /* body {
